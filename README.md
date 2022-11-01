@@ -1,5 +1,7 @@
 > Call for translators! [We're looking for translators](https://github.com/all-contributors/all-contributors/issues/143) to help translate this spec for everyone!
 
+##Nous voulons des personnes qui peuvent traduire cela pour tout le monde
+
 <div align="center">
     <a href="https://allcontributors.org">
         <img src="docs/assets/logo-full.svg" alt="✨ All Contributors ✨" width="800px" />
